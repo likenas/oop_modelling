@@ -1,5 +1,4 @@
 # Drink Cooler OOP Modelling
-======
 
 This case cooler have 3 shelves and each shelf capacity only 20 item
 
